@@ -5,7 +5,7 @@
 ### Pose estimation
 
 [ArUco marker pose estimation](https://github.com/sergiogtorres/ArUco_tracker)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/thumbnail-wide.png?raw=true"/>
 
 ---
 
