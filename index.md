@@ -45,7 +45,7 @@ reference:
 
 XYZ *= (avg_z_coord_NERF_dart * 1e-3)
 
-This (x, y, z) vector is tracked with a kalman filter also built from scratch.
+This (x, y, z) vector is tracked with a Kalman filter also built from scratch.
 
 ---
 
