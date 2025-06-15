@@ -61,6 +61,8 @@ This (x, y, z) vector is tracked with a kalman filter also built from scratch.
   </iframe>
 </div>
 
+<img src="images/x-z_estimated_and_GT.png?raw=true"/>
+
 Pipeline for Stereo Visual Odometry. Uses keypoint detection between successive frames to estimate relative movement
 in world units (meters, and orientation). At each frame, 3D points retrieved from a disparity map of the stereo pair of 
 images is matched with a single image (from the left camera) from the previous frame to do 3D-2D estimation using the 
