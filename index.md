@@ -61,6 +61,8 @@ This (x, y, z) vector is tracked with a Kalman filter also built from scratch.
   </iframe>
 </div>
 
+
+
 Ground truth (red) vs estimated trajectory (blue). Axes in meters, in the frame of reference of the first camera frame.
 <img src="images/x-z_estimated_and_GT.png?raw=true"/>
 
