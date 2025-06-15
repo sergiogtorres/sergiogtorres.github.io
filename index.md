@@ -53,7 +53,7 @@ This (x, y, z) vector is tracked with a kalman filter also built from scratch.
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
   <iframe 
-    src="https://www.youtube.com/embed/IJccEg60Xd4" 
+    src="https://www.youtube.com/embed/vmcoMkU9ZBE" 
     frameborder="0" 
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
     allowfullscreen 
