@@ -55,6 +55,16 @@ XYZ *= (avg_z_coord_NERF_dart * 1e-3)
 
 [Occupancy Grid Demo](https://github.com/sergiogtorres/occupancy_grid_demo)
 
+From-scratch simulation of the concept of occupancy grid mapping of obstacles.
+Uses a belief map with bayesian updates to detect obstacles and create an occupancy grid in a simulated, LiDAR-like 
+perception simulation.
 
+The algorithm uses ray tracing to backtrack a detection ray and infer either the presence or absence, or no information,
+of obstacles. For example, for a certain bearing, all ranges lower than the detected range can be assumed to be free of
+obstacles, and the detected range can be assumed to contain an obstacle. This detected obstacle position is discretized
+in polar coordinates with a pair of  δr and δφ that represents the minimum detection region for a single ray. Any points
+not currently inferrable as obstacle or no-obstacle, i.e., points beyond the maximum detection range, and points at 
+relative angles other than the current bearing, are considered as giving no information, so they don't affect the 
+belief map.
 
 ---
