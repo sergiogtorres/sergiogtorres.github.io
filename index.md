@@ -77,10 +77,15 @@ Tested using images from the KITTI benchmark (https://www.cvlibs.net/datasets/ki
 
 [Occupancy Grid Demo](https://github.com/sergiogtorres/occupancy_grid_demo)
 
-<video width="100%" autoplay loop muted playsinline>
-  <source src="images/occupancy_grid_mapping_demo.webm" type="video/webm">
-  Your browser does not support the video tag.
-</video>
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe 
+    src="https://www.youtube.com/embed/IJccEg60Xd4" 
+    frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+    allowfullscreen 
+    style="position: absolute; top:0; left: 0; width: 100%; height: 100%;">
+  </iframe>
+</div>
 
 From-scratch simulation of the concept of occupancy grid mapping of obstacles.
 Uses a belief map with bayesian updates to detect obstacles and create an occupancy grid in a simulated, LiDAR-like 
