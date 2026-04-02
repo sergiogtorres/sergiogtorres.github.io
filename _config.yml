@@ -2,14 +2,8 @@ title: Sergio González Torres # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   
-  Hi! I'm a physicist who is delving into computer vision and machine learning. I'm currently following these open courses:
-  Finished:
-  - CS131 Computer Vision: Foundations and Applications
-  Ongoing:
-  - CS231A: Computer Vision, From 3D Perception to 3D Reconstruction and beyond
-  
-  Here are some of the projects I'm working on.
-  <a href="https://www.linkedin.com/in/sergiogtorres/">View My LinkedIn Profile</a> 
+Physicist (PhD) and Computer Vision Engineer working on perception systems that combine geometry, physics-based modeling, and deep learning, with a focus on thermal/infrared imaging and real-time processing.
+Here are some of the projects I'm building i nmy free time.
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
