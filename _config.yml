@@ -2,8 +2,8 @@ title: Sergio González Torres # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   
-Physicist (PhD) and Computer Vision Engineer working on perception systems that combine geometry, physics-based modeling, and deep learning, with a focus on thermal/infrared imaging and real-time processing.
-Here are some of the projects I'm building i nmy free time.
+  Physicist (PhD) and Computer Vision Engineer working on perception systems that combine geometry, physics-based modeling, and deep learning, with a focus on thermal/infrared imaging and real-time processing.
+  Here are some of the projects I'm building in my free time.
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
